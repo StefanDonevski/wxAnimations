@@ -24,6 +24,6 @@ Both values are plotted live on graphs while the animation runs.
 This demo shows:
 - Smooth interpolation-based animation
 - Real-time graph updates
-- Start / Reset interaction
+- Start / Reset interaction[
 
-https://github.com/StefanDonevski/wxAnimations/raw/main/video/Screen%20Recording%202026-06-27%20025041.mp4
+https://github.com/user-attachments/assets/fcccc454-f2e1-4876-9207-944e51e6ad79
