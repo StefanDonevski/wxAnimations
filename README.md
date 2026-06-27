@@ -21,4 +21,4 @@ Both values are plotted live on graphs while the animation runs.
 
 ## Demo Video
 
-[> (Add your screenshot here)](https://github.com/StefanDonevski/wxAnimations/blob/main/video/Screen%20Recording%202026-06-27%20025041.mp4)
+https://github.com/StefanDonevski/wxAnimations/blob/main/video/Screen%20Recording%202026-06-27%20025041.mp4
