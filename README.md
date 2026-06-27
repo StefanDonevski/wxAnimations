@@ -19,6 +19,6 @@ Both values are plotted live on graphs while the animation runs.
 - Visual demonstration of easing-like transitions
 - Simple and responsive UI built with wxWidgets
 
-## videos
+## Demo Video
 
-> (Add your screenshot here)
+[> (Add your screenshot here)](https://github.com/StefanDonevski/wxAnimations/blob/main/video/Screen%20Recording%202026-06-27%20025041.mp4)
